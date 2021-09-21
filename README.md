@@ -2,9 +2,10 @@
 
 ## Step 1: Create embed
 
-1. Go to [staging Flatfile website](https://app.staging.flatfile.zone/)
+1. Go to [staging Flatfile website](https://app.flatfile.io/)
 2. Create your Flatfile account (if you haven't already).
-3. Create and configure your embed.
+3. Create a Data Template
+4. Create and configure your embed.
 
 ## Step 2: Configure server.py
 
